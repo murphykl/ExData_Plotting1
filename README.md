@@ -1,5 +1,5 @@
 ## Instructions for running code
-* Download file to your working directory and unzip
+* Download dataset file linked below to your working directory and unzip
 * Run plot functions found in the 'functions' folder (no need for arguments as the filename is hardwired):
  * plot1()
  * plot2()
